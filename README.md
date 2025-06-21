@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,react,js,.net,git,azure,c#,css,discord,github,html,js,mysql,postman,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,js,net,azure,c,css,,github,html,js,mysql,postman&perline=14" />
   </a>
 </p>
 
