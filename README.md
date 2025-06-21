@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Angel Aybar</h1></summary>
   </ul>
 </div>
 
@@ -26,19 +26,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I'm a **junior backend developer** with a solid foundation in **.NET** technologies, focused on building web and desktop applications. I'm currently in a stage of            professional growth, participating in personal and collaborative projects, and always looking to learn new tools and best practices.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **Azure**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 📫 Feel free to reach me out **angelaybar1996@gmail.com**
 <!--Intro end-->
 
 
